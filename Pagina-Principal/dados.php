@@ -17,5 +17,49 @@ $produtos = [
         "name"=> "Console Xbox Series S 500gb Ssd",
         "price"=> 2276.10,
         "rating"=> 5,
-        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simp…"
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/3-1.webp"
+    ],
+    [
+        "name"=> "Fritadeira Elétrica - Airfryer Ichef Polishop - AllSpace - Exclusive - Preto",
+        "price"=> 899.96,
+        "rating"=> 4,
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/4-1.webp"
+    ],
+    [
+        "name"=> "Smart TV 43'' LG 43LM631C0SB.BWZ Full HD Wi-Fi + 2 USB 3 HDMI",
+        "price"=> 1871.10,
+        "rating"=> 4,
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/5-1.webp"
+    ],
+    [
+        "name"=> "Tablet Samsung Galaxy A7 Lite 4g 32GB 3GB RAM SM-T225NZAPZTO",
+        "price"=> 1028.99,
+        "rating"=> 4,
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/6-1.webp"
+    ],
+    [
+        "name"=> "Kit Máquina de Cortar Cabelos Dual Action Titanium e Multigroom 7 em 1 - Philco",
+        "price"=> 149.99,
+        "rating"=> 3,
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/7-1.webp"
+    ],
+    [
+        "name"=> "Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 1,80m Velusoft Café",
+        "price"=> 888.99,
+        "rating"=> 4,
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/8-1.webp"
+    ],
+    [
+        "name"=> "Cadeira para Auto Snugfix 360º Rotacional Preta Fisher Price - Fisher-Price",
+        "price"=> 975.92,
+        "rating"=> 3,
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/9-1.webp"
+    ],
+    [
+        "name"=> "Kit de Ferramentas Fasterr 129 peças Bits e Chaves emergênciais",
+        "price"=> 77.90,
+        "rating"=> 3,
+        "image"=> "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/10-1.webp"
+    ]
+];
 ?>
