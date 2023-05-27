@@ -1,0 +1,213 @@
+.superior{
+    height: 155px;
+    left: 0px;
+    top: 85px;
+}
+
+.alto{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 7px 1.88px 0px 0px;
+    gap: 12px;
+    position: absolute;
+    width: 252.88px;
+    height: 43px;
+    left: calc(50% - 252.88px/2);
+    top: 56px;
+}
+
+.alto h2{
+    width: 203px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.096px;
+    text-transform: lowercase;
+    color: #666666;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top: 11px;
+    position:relative
+}
+
+.icon{
+    width: 36px;
+    height: 36px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.icon img{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0px;
+}
+
+.superior p{
+    position: absolute;
+    left: calc(50% - 346px/2);
+    top: 123px;
+    width: 337.48px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.096px;
+    color: #666666;
+}
+
+.baixo{
+    position: absolute;
+    width: 346px;
+    height: 32px;
+    left: calc(50% - 346px/2);
+    top: 123px;
+}
+
+.baixo p{
+    position: absolute;
+    width: 337.48px;
+    height: 32px;
+    left: 4.36px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex; 
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.096px;
+    color: #666666;
+}
+
+.form{
+    position: absolute;
+    width: 346px;
+    height: 252.78px;
+    left: calc(50% - 346px/2);
+    top: calc(50% - 252.78px/2 - 13.5px);
+}
+
+.email{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    height: 75.39px;
+    left: 0px;
+    right: 0px;
+    top: -1px;
+}
+
+.email p{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0px 295.77px 0.389999px 0px;
+    gap: 0.23px;
+    width: 346px;
+    height: 19.39px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.email input{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 0px 0px;
+    width: 346px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.senha{
+    position: absolute;
+    width: 346px;
+    height: 98.39px;
+    left: 0px;
+    top: 93.39px;
+}
+
+.senha p{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 0px 0px;
+    width: 346px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.senha input{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 0px 0px;
+    width: 346px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.botao{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px 137.45px 0px 137.45px;    ;
+    position: absolute;
+    width: 346px;
+    height: 48px;
+    right: 0px;
+    top: 229.78px;
+    background: #294380;
+    border: 1px solid #294380;
+    border-radius: 8px;
+}
+
+.botao p{
+    width: 71px;
+    height: 19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
